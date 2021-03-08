@@ -9,7 +9,9 @@
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/marcusyoda](https://github.com/marcusyoda)
 
-- 📫 Fale comigo em **marcusyoda@outlook.com**
+- 📫 Fale comigo sobre:
+- 📫 tecnologia, códigos e educação em ti **marcusyoda@outlook.com**
+- 📫 contratar meus serviços: **marcus@acelera.cloud**
 
 - ⚡ Fun fact **Eu queria ser um Jedi**
 
