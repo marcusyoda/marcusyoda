@@ -1,6 +1,9 @@
 <h1 align="left">Marcus Yoda</h1>
 <h3 align="left">A happy software engineer</h3>
 
+[![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusyoda)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 Atualmente eu trabalho na [Acelera](https://acelera.cloud)
 
 - 🌱 Estou me especializando em **Node, Typescript, React e Mongo**
