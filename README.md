@@ -1,5 +1,5 @@
 <h1 align="left">Marcus Yoda</h1>
-<h3 align="left">👨 Software Engineer</h3>
+<h3 align="left">👨 Engenheiro de Software</h3>
 
 [![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusyoda)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,12 +12,14 @@
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/marcusyoda](https://github.com/marcusyoda)
 
+- ⚡ Fun fact **Eu queria ser um Jedi**
+  
+  
 <h3 align="left">📫 Fale comigo:</h3>  
 
 - 📫 tecnologia, códigos e educação em ti **marcusyoda@outlook.com**
 - 📫 contratar meus serviços: **marcus@acelera.cloud**
 
-- ⚡ Fun fact **Eu queria ser um Jedi**
 
 <h3 align="left">📱 Tecnologias:</h3>
 
