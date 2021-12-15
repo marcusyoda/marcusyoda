@@ -12,7 +12,8 @@
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/marcusyoda](https://github.com/marcusyoda)
 
-- Fale comigo sobre:
+<h3 align="left">📫 Fale comigo:</h3>  
+
 - 📫 tecnologia, códigos e educação em ti **marcusyoda@outlook.com**
 - 📫 contratar meus serviços: **marcus@acelera.cloud**
 
