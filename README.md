@@ -1,8 +1,9 @@
 <h1 align="left">Marcus Yoda</h1>
 <h3 align="left">👨 Engenheiro de Software</h3>
 
-[![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusyoda)](https://github.com/anuraghazra/github-readme-stats)
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=marcusyoda)
 
+[![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusyoda&theme=dark&layout=compact)](https://github.com/marcusyoda/github-readme-stats)
 
 - 🔭 Atualmente eu trabalho na [Acelera](https://acelera.cloud)
 
