@@ -57,3 +57,7 @@
 <a href="https://instagram.com/marcusyoda" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="INSTAGRAM" height="30" /></a>
 <a href="https://www.youtube.com/marcusyoda" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YOUTUBE" height="30" /></a>
 </p>
+
+<h3 align="left">👨‍💻 DEV CARD:</h3>
+
+<a href="https://app.daily.dev/maviniciuus"><img src="https://api.daily.dev/devcards/6202fb3e965b45b6a126237a98a460fb.png?r=695" width="400" alt="Marcus Vinícius's Dev Card"/></a>
