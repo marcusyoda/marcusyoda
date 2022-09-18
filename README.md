@@ -59,5 +59,4 @@
 </p>
 
 <h3 align="left">👨‍💻 DEV CARD:</h3>
-
-<a href="https://app.daily.dev/maviniciuus"><img src="https://api.daily.dev/devcards/6202fb3e965b45b6a126237a98a460fb.png?r=695" width="400" alt="Marcus Vinícius's Dev Card"/></a>
+<a href="https://app.daily.dev/maviniciuus"><img src="https://api.daily.dev/devcards/6202fb3e965b45b6a126237a98a460fb.png?r=2ul" width="400" alt="Marcus Vinícius's Dev Card"/></a>
