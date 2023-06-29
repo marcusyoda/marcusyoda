@@ -9,7 +9,7 @@
 
 - 🌱 ~~Estou focado em **AWS, Node, PHP, MYSQL, Micro Serviços e Blaze(Meteor)**~~  
   🌱 ~~Estou focado em **AWS, Serverless, Typescript, React, PGSQL Mongo**~~  
-  🌱 ~~Estou focado em **AWS, Serverless, Typescript, React, DynamoDB, PGSQL, Redis e Mongo**~~
+  🌱 ~~Estou focado em **AWS, Serverless, Typescript, React, DynamoDB, PGSQL, Redis e Mongo**~~  
   🌱 Estou focado em **GCP, Terraform, Typescript, React, Firebase, PGSQL, Redis e Mongo**
 
 - 👯 Aceito colaborações em qualquer um dos meus projetos!
