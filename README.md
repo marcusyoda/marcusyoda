@@ -1,7 +1,7 @@
 <h1 align="left">Marcus Yoda</h1>
-<h3 align="left">👨 Engenheiro de Software</h3>
+<h3 align="left">👨 Senior Solutions Architect | DevOps | Kubernetes | AWS Solutions | Software Engineer</h3>
 
-![visitantes](https://visitor-badge.glitch.me/badge?page_id=marcusyoda)
+![Visitors](https://komarev.com/ghpvc/?username=marcusyoda&color=blue)
 
 [![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusyoda&theme=dark&layout=compact)](https://github.com/marcusyoda/github-readme-stats)
 
